@@ -68,7 +68,7 @@ included should you wish to see it but you'll need a
 C64 emulator.  There is also a SID file which is the
 original C64 music.
 
-=======================--->-- -
+=======================--->-- 
 Credits      
 =======================--->-- -
 
