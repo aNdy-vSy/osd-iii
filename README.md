@@ -1,9 +1,9 @@
 Old School Demo III               
 Released by Cosine Systems in 2018
+
 http://www.cosine.org.uk/ 
-=======================--->-- -
+
 Config      
-=======================--->-- -
 
 This demo does not need installation. Just run the EXE file
 to play the demo.  However, the 'gfx' and 'sfx' directories
@@ -19,9 +19,7 @@ instructions at the beginning of the source are
 followed before re-compiling. Thanks to 'StarBootics'
 of the PureBasic forum for the tip.
  
-=======================--->-- -
 Info   
-=======================--->-- -
 
 This is a simple demo, expanding on learning done in Old
 School Demos 1 and 2.  It was produced in response to a
@@ -46,9 +44,7 @@ case, all of the graphics are provided in their original
 bitmap format so you can see how they all slot together
 and how they are used.
  
-=======================--->-- -
 Extras    
-=======================--->-- -
 
 There should be an 'extras' folder included in the
 download. This folder contains a few files not directly
@@ -68,9 +64,7 @@ included should you wish to see it but you'll need a
 C64 emulator.  There is also a SID file which is the
 original C64 music.
 
-=======================--->-- 
 Credits      
-=======================--->-- -
 
 Code:		aNdy/AL/Cosine
 Graphics:	aNdy/AL/Cosine 
@@ -78,9 +72,7 @@ Music:		aNdy/AL/Cosine
 Format:		Windows PC
 Released:	2018-10-31
  
-=======================--->-- -
 Thanks      
-=======================--->-- -
 
 Special thanks to KrazyK (DBF Forum) for pointers on the
 animation and continued support and help.
@@ -92,6 +84,5 @@ Thanks also to the usual suspects, T.M.R/Cosine,
 Moloch/Triad, Warlock/AL/R64 & Fuzz/AL/R64 
 for testing, comments and suggestions.
 
-=======================--->-- -
 EOF      
-=======================--->-- -           
+   
